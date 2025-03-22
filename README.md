@@ -1,7 +1,7 @@
 # Cloud Security Practices and Risk Management – AWS Security Project
 
 ## Objective
-This project focuses on **securing cloud environments** by implementing **AWS security best practices**, **threat detection mechanisms**, and **risk management strategies**. The goal is to **identify, mitigate, and monitor security risks** in an AWS infrastructure.
+This project focuses on securing cloud environments by implementing AWS security best practices, threat detection mechanisms, and risk management strategies. The goal is to identify, mitigate, and monitor security risks in an AWS infrastructure.
 
 ## Skills Learned
 - **Cloud security principles** and risk assessment.
